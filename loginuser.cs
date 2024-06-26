@@ -1,4 +1,3 @@
 loginuser ()
 
-test yapılıyorrrrrrrrrrrrrrrr
-dfghjklk
+test
